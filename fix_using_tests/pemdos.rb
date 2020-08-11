@@ -9,6 +9,3 @@ def snake_it_up(string)
   end
 end
 
-string = "surprise"
-puts "ssssssssss" + string
-
