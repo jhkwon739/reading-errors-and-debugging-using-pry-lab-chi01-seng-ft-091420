@@ -9,3 +9,12 @@ def snake_it_up(string)
   end
 end
 
+string = "me"
+
+if string[0] == "s"
+  "ssssssssss" + string
+else
+  string
+end
+
+puts string
