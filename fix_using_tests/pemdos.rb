@@ -12,9 +12,8 @@ end
 string = "seeds"
 
 if string[0] == "s"
-  "ssssssssss" + string
+  string = "ssssssssss" + string
 else
   string
 end
-
 puts string
