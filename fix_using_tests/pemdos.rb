@@ -11,3 +11,5 @@ def snake_it_up(string)
   end
   puts string
 end
+
+snake_it_up("surprise")
