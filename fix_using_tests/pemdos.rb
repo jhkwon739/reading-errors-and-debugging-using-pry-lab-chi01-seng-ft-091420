@@ -12,4 +12,4 @@ def snake_it_up(string)
   puts string
 end
 
-snake_it_up("surprise")
+puts snake_it_up("surprise")
