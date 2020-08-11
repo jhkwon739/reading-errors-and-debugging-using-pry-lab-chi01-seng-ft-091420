@@ -9,7 +9,7 @@ def snake_it_up(string)
   end
 end
 
-string = "surprise"
+string = "me"
 
 if string[0] == "s"
   string = "ssssssssss" + string
