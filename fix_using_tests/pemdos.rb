@@ -10,4 +10,4 @@ def snake_it_up(string)
 end
 
 string = "surprise"
-puts 10*"s" + string[0]
+puts (10*"s") + string
